@@ -1,6 +1,6 @@
 |    Size   |     DL  | sha512sum |
 |  ---  |  ---  |  ---  |
-| 14MB | [v2rayNG_1.6.6_arm64-v8a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.6_arm64-v8a.apk) | ee2a0d6638500188a82d2bb768fda8c8e74f03adfd1d7842a4a12281ca7f9c1715bc0ae11cefa72d6b81755960ebaa20282e4bac3dbf5cb84d2f1308a74aa2ef |
-| 14MB | [v2rayNG_1.6.6_armeabi-v7a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.6_armeabi-v7a.apk) | 97167e7e87cd9eb727289f03fba661602a5a49d8a6aa8c80884ab0be26f8e29f4780c13c6457afe9ef372051bb9fcd76d615a20ed3bcafc7d5d5122d32d76ba9 |
-| 15MB | [v2rayNG_1.6.6_x86.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.6_x86.apk) | a7a4d515782bf30b347ac8bda63717ac152242e45c30c0204eba3769eef9c653788036bd7489ce029e1c05126fd33ffdc2a9f5dc126f996e1a168b55b8da8919 |
-| 15MB | [v2rayNG_1.6.6_x86_64.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.6_x86_64.apk) | 695797384803dde1720eda5417e0f3f721c9ac82774828331a82114a75cee1efaa088d380fa73c43df753ebbd143327ffea27df2c81c244a331f01361a7c7ea6 |
+| 14MB | [v2rayNG_1.6.7_arm64-v8a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.7_arm64-v8a.apk) | f80628143eab31b16a786a063cc55edee1d3b1bdb2bd3c8062658143b85c526de8f6d3a3b287ac6a63099c2a13060f225162094d96633b359a2854f1ae8535cc |
+| 14MB | [v2rayNG_1.6.7_armeabi-v7a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.7_armeabi-v7a.apk) | 373f4c79ba6be9f83e24ca2f27dd4b9e652b8807dd74861a724e0834c407aa91abaf2e426b900f37ff32aa068cb3624ca8936682fa4d0043309773fc8922d875 |
+| 15MB | [v2rayNG_1.6.7_x86.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.7_x86.apk) | 0a4cd119b4d5812be53c47f0ca7cff958e03b2ff16cb9953b445c12a242400bf35ccf5a79a2274588e0317f9f03e59c0bf5798b4c726ecc448fba4ea1520e5fe |
+| 15MB | [v2rayNG_1.6.7_x86_64.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.7_x86_64.apk) | efa2c71bb4ea447696cca1e1e19484b05652e6dae8fd599ec121e7d6a2ffbba91a5cffe56c8b2ae2cac8718b4e0a0b0ed57667b0674cfe584b00bff33689ed81 |
