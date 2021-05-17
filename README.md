@@ -1,6 +1,6 @@
 |    Size   |     DL  | sha512sum |
 |  ---  |  ---  |  ---  |
-| 14MB | [v2rayNG_1.6.7_arm64-v8a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.7_arm64-v8a.apk) | f80628143eab31b16a786a063cc55edee1d3b1bdb2bd3c8062658143b85c526de8f6d3a3b287ac6a63099c2a13060f225162094d96633b359a2854f1ae8535cc |
-| 14MB | [v2rayNG_1.6.7_armeabi-v7a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.7_armeabi-v7a.apk) | 373f4c79ba6be9f83e24ca2f27dd4b9e652b8807dd74861a724e0834c407aa91abaf2e426b900f37ff32aa068cb3624ca8936682fa4d0043309773fc8922d875 |
-| 15MB | [v2rayNG_1.6.7_x86.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.7_x86.apk) | 0a4cd119b4d5812be53c47f0ca7cff958e03b2ff16cb9953b445c12a242400bf35ccf5a79a2274588e0317f9f03e59c0bf5798b4c726ecc448fba4ea1520e5fe |
-| 15MB | [v2rayNG_1.6.7_x86_64.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.7_x86_64.apk) | efa2c71bb4ea447696cca1e1e19484b05652e6dae8fd599ec121e7d6a2ffbba91a5cffe56c8b2ae2cac8718b4e0a0b0ed57667b0674cfe584b00bff33689ed81 |
+| 14MB | [v2rayNG_1.6.8_arm64-v8a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.8_arm64-v8a.apk) | 9b9056d51ddef69a2696652b027eda239de5e7c498edacb7a7888dcf51eccce31a872cdd5f1ac730f6a550740f470c6f5cd471876e0822df4ae46db85eb389c4 |
+| 14MB | [v2rayNG_1.6.8_armeabi-v7a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.8_armeabi-v7a.apk) | eb75ef6164a7077dd5e3f44fdf21adbc102c7f47e5c1217afdb092c9d007c65adda8f4f777023ff9591ee5ae49b11661307db1c3240ce293648086f9d1c35066 |
+| 15MB | [v2rayNG_1.6.8_x86.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.8_x86.apk) | 04568293164b038197ed5f9ed18056313af556d3ca7e7807cd53f222e96e2ca93e3d4abb6f5012dc09b05076c0a1a86802f014b2b9e7c08621fe4ca8a314c14f |
+| 15MB | [v2rayNG_1.6.8_x86_64.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.8_x86_64.apk) | fa8e77520b1bc488f38c161c7b7e14b2e1419162df8ea38afe23a3c55654c50b7fbb5d9c8d65fda79577eb01cf8e66458b9b4db8539b583146fb9d788795a8d5 |
