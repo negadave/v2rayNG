@@ -1,6 +1,6 @@
 |    Size   |     DL  | sha512sum |
 |  ---  |  ---  |  ---  |
-| 14MB | [v2rayNG_1.6.9_arm64-v8a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.9_arm64-v8a.apk) | f3a24178fbaeed223ec33b206bfba94c16e3946fdb312346353b87b14e6f592ba263b103bde16f2e01875950cc6239066f6faa58f689c039cdfb35ca54ccf0e2 |
-| 14MB | [v2rayNG_1.6.9_armeabi-v7a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.9_armeabi-v7a.apk) | 893a9ee6a54db188f958cfaf4ccb0481a6e703f6413e9ec450b9d4097cfc57023e85ea25d41549fa638818d141745aaad788d0ad2d0db0a73ecf153a3607b259 |
-| 15MB | [v2rayNG_1.6.9_x86.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.9_x86.apk) | 10428afd77d31b3a3130e4294c49f793279db22adcc1598ae819e0dab63ad764fa254b7f9e03e0a3e438572f09e34be5f6f9819558a1e304fa5673c76f7c7321 |
-| 15MB | [v2rayNG_1.6.9_x86_64.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.9_x86_64.apk) | a64433df5360f326e699ed2f3ae2fd32f4045bcc22f08f37273342925eb2120a20b0a3347215eb09d71e4ad856f36ebffd9eee29818c32aab00a88357fdccb27 |
+| 14MB | [v2rayNG_1.6.10_arm64-v8a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.10_arm64-v8a.apk) | 0b8f90324158d70742720cf43d44d70307f9dac22f67496ab0ceb9e1895e3d511584939706961696651440938f6e1e495feafd648aeb3193eb508cee55167be1 |
+| 14MB | [v2rayNG_1.6.10_armeabi-v7a.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.10_armeabi-v7a.apk) | 6016c1572e54e3c4683f4d973edaad830079b0079b01da1be618541964ce0320c5f234ed99fa2149bfbfafd7527711a0f730678acd2c32390b9cdcfc5987353b |
+| 15MB | [v2rayNG_1.6.10_x86.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.10_x86.apk) | 009586087969f68e62108b696ef4d4b7f2e11e185328b40a31b6586ff032241431d009e5322e23364fa070fee2896d0dcb42c4592b9458e60e12b4060c0fc14f |
+| 15MB | [v2rayNG_1.6.10_x86_64.apk](https://cdn.jsdelivr.net/gh/googleians/v2rayNG@main/v2rayNG_1.6.10_x86_64.apk) | a02e46eb07afbd25a0dc7bdbd0e745287541c60c5b48d1ce29dd637da5a4676fda7f77e5a934292ccded21416d68c0e4a5654c0e4b7e15368823600c59a33ac7 |
